@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-ct-dmv",
+  "version": "0.1.0",
+  "description": "Connecticut DMV: vehicle-level electric vehicle registrations by town, make and model",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "ct-dmv"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-ct-dmv"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
