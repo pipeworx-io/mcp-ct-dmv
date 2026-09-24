@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/ct-dmv",
-  "title": "Connecticut DMV",
-  "description": "Connecticut DMV: vehicle-level electric vehicle registrations by town, make and model",
-  "version": "0.1.0",
+  "title": "Ct Dmv",
+  "description": "Connecticut DMV MCP — electric-vehicle registrations at vehicle level, aggregated on",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ct-dmv",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ct-dmv",
